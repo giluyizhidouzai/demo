@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hhhhhhhahdh");
         System.out.println("我要打十个");
         System.out.println("hotfix");
+        System.out.println("master合并");
     }
 }
